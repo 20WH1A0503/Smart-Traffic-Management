@@ -1,0 +1,11 @@
+  The Smart Pedestrain Crossing Concept is an interesting project designed to save lives on the road. 
+  In metropolitan locations, we frequently witness pedestrians crossing at green lights or automobiles crossing at red lights; in either situation, the pedestrian's life is affected. 
+  This project can assist pedestrians in crossing the street by utilizing a belt system in which pedestrians are moved from one end of the belt to the other.
+  The project is based on two infrared sensors, which are utilized to calculate pedestrian density.
+  When pedestrians are recognized, the belt begins to move, causing the pedestrian to move from one end to the other.
+  The project's brain is a microcontroller.
+  When IR is detected, the controller reads the IR sensors; for example, when a pedestrian is spotted, the IR sends a HIGH signal to the controller.
+  The microcontroller reads the controller's signals and performs as programmed.
+  The microcontroller is configured to activate the belt, in this case our Zebra crossing, and run it as long as the IR is LOW, indicating that the pedestrians have moved off the beginning side.
+  Two Zebra crossings are utilized on both sides of the road, allowing pedestrians on both sides to pass in the desired direction.   
+ Drive Link: https://drive.google.com/file/d/1mhfmn9F2ULLjOLe_smP9oqRVieKfvPR8/view?usp=sharing
